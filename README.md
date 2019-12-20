@@ -9,3 +9,7 @@ Classification and data mining methods are an effective way to classify data. Es
 Objectives
 
 The goal is to classify whether the breast cancer is benign or malignant. To achieve this I have used an ensemble of SVM, Random forest and XGBoost to learn from the training data.
+
+Result
+
+r2_score : 0.9762340036563071
