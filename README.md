@@ -12,4 +12,4 @@ The goal is to classify whether the breast cancer is benign or malignant. To ach
 
 Result
 
-r2_score : 0.9762340036563071
+Mean Accuracy : 0.9762340036563071
