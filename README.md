@@ -27,8 +27,7 @@ This database is also available through the UW CS ftp server:https://archive.ics
 
 2) Diagnosis (M = malignant, B = benign) 
 
-3-32)
-Ten real-valued features are computed for each cell nucleus:
+3-32)Ten real-valued features are computed for each cell nucleus:
 
 a) radius (mean of distances from center to points on the perimeter)
 
